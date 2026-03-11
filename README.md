@@ -49,4 +49,3 @@ Key principles include:
 ---
 
 # Project Structure
-s
