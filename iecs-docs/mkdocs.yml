@@ -1,0 +1,12 @@
+site_name: IECS Documentation
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Scope: scope.md
+  - Milestones: milestones.md
+  - Risks: risks.md
+  - Team: team.md
+  - Contact: contact.md
