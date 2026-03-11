@@ -1,0 +1,18 @@
+site_name: IECS Documentation
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Scope: scope.md
+  - Timeline: timeline.md
+  - Milestones: milestones.md
+  - Deliverables: deliverables.md
+  - WBS: wbs.md
+  - Risks: risks.md
+  - Team: team.md
+  - Stakeholders: stakeholders.md
+  - RACI Matrix: raci.md
+  - Design: design.md
+  - Contact: contact.md
